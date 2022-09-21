@@ -8,6 +8,24 @@ Robin managed a large IT department for a global healthcare company for 20 years
 to that he held management roles in Mars UK in supply chain and sales support.  His 
 degree is in Microbiology.
 
-Running has been a major feature throughout his life but to 'reduce the load on his knees'
-he took up triathlon in the 1990s.  The running continued at the same level but cycling 
-and swimming were added.  He has completed 17 Ironman races.
+
+<img src="/WebSite/images/robrun.jpg" alt="robrun" width="140" height="220" title="Recent race" margin=20px style="padding: 10px; float: right;">
+
+He has worked with several organisations, small and large, to help them innovate using digital technologies.
+
+Robin has been a distance runner for over 40 years, completing many marathons off-road races.
+
+He also enjoyed competing in triathlons from sprint to Ironman distances.  
+
+
+
+
+
+
+
+
+
+
+
+
+

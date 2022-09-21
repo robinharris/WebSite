@@ -24,8 +24,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   Electronics, Ham Radio, Arduino, ESP8266, 3D Printing, Model Engineering
 baseurl: "/WebSite" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: none
 github_username:  RobinHarris
+
+# Fields Minima uses but are not defaulted in the Jekyll new command
+author: Robin Harris
 
 # Build settings
 theme: minima
