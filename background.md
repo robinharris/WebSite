@@ -6,10 +6,8 @@ permalink: /background/
 
 Robin managed a large IT department for a global healthcare company for 20 years.  Prior
 to that he held management roles in Mars UK in supply chain and sales support.  His 
-degree is in Microbiology.
-
-
 <img src="/WebSite/images/robrun.jpg" alt="robrun" width="140" height="220" title="Recent race" margin=20px style="padding: 10px; float: right;">
+degree is in Microbiology.
 
 He has worked with several organisations, small and large, to help them innovate using digital technologies.
 
@@ -19,9 +17,9 @@ He also enjoyed competing in triathlons from sprint to Ironman distances.
 
 This is my 3D printer:
 
-<img src="/WebSite/images/3D Printer 1.jpg" alt="3D Printer 1" width="140" height="220" title="Recent race" margin=20px style="padding: 10px; float: right;">
+<img src="/WebSite/images/3DPrinter1.jpg" alt="3D Printer 1" width="300" height="225" title="3D Printer" margin=20px style="padding: 10px; float: right;">
 
-<img src="/WebSite/images/3D Printer 2.jpg" alt="3D Printer 2" width="140" height="220" title="Recent race" margin=20px style="padding: 10px; float: left;">
+<img src="/WebSite/images/3DPrinter2.jpg" alt="3D Printer 2" width="240" height="300" title="3D Printer on Stand" margin=20px style="padding: 10px; float: left;">
 
 
 
