@@ -10,6 +10,7 @@ I do a lot of outdoor running and cycling so naturally keep a close eye on the w
 but commercial reports are never quite specific enough for my location.  I really want to
 know what the wind speed is **now** and from which direction it is blowing.
 
+<img src="/WebSite/images/windvane.jpg" alt="Wind Vane" width="300" height="220" title="Home Made Weather Station" margin=20px style="padding: 10px; float: right;">
 
 Out of these needs came the first solution - buy a commercial weather station, mount the
 sensors on a pole outside and use a fancy display to view real time data.  But where is 

@@ -17,10 +17,11 @@ Robin has been a distance runner for over 40 years, completing many marathons of
 
 He also enjoyed competing in triathlons from sprint to Ironman distances.  
 
+This is my 3D printer:
 
+<img src="/WebSite/images/3D Printer 1.jpg" alt="3D Printer 1" width="140" height="220" title="Recent race" margin=20px style="padding: 10px; float: right;">
 
-
-
+<img src="/WebSite/images/3D Printer 2.jpg" alt="3D Printer 2" width="140" height="220" title="Recent race" margin=20px style="padding: 10px; float: left;">
 
 
 

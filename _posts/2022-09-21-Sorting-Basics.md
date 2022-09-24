@@ -20,8 +20,11 @@ It **does not** regulate the output voltage so I needed to add a step down conve
 In this photo the Wemos is lower left and to its right is the voltage regulator (down converter).  Top is the charge controller and the 18650 battery is top left.
 
 This went into a 3D printed enclosure:
+
 <img src="/WebSite/images/IMG_8177.JPG" alt="First Test" width="280" height="200" title="First Test Setup" margin=20px style="padding: 10px; float: right;">
+
 For the first quick test the lid isn't fitted 
+
 <img src="/WebSite/images/IMG_8178.JPG" alt="First Test" width="300" height="200" title="First Test Setup" margin=20px style="padding: 10px; float: left;">
 
-![](../images/IMG_8178.JPG)
+The down converter doesn't have a mounting place in the enclosure so for now it is hanging by the conecting wires.  There will no doubt, be several other changes required so will wait to try and get a few in the next version.
