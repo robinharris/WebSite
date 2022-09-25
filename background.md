@@ -17,9 +17,9 @@ He also enjoyed competing in triathlons from sprint to Ironman distances.
 
 This is my 3D printer:
 
-<img src="/WebSite/images/3DPrinter1.jpg" alt="3D Printer 1" width="300" height="225" title="3D Printer" margin=20px style="padding: 10px; float: right;">
+<img src="/WebSite/images/3DPrinter1.JPG" alt="3D Printer 1" width="300" height="225" title="3D Printer" margin=20px style="padding: 10px; float: right;">
 
-<img src="/WebSite/images/3DPrinter2.jpg" alt="3D Printer 2" width="240" height="300" title="3D Printer on Stand" margin=20px style="padding: 10px; float: left;">
+<img src="/WebSite/images/3DPrinter2.JPG" alt="3D Printer 2" width="240" height="300" title="3D Printer on Stand" margin=20px style="padding: 10px; float: left;">
 
 
 
