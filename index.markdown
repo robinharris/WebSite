@@ -6,4 +6,4 @@ layout: home
 ---
 Home Page
 
-<img src="/WebSite/images/robinh.jpeg" alt="Robin" width="280" height="200" title="First Test Setup" margin=20px style="padding: 10px; float: right;">
+<img src="/WebSite/images/robinh.jpeg" alt="Robin" width="240" height="350" title="First Test Setup" margin=20px style="padding: 10px; float: right;">

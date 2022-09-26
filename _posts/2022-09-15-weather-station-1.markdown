@@ -2,7 +2,7 @@
 layout: post
 title:  "Weather Station - The Idea Takes Shape"
 date:   2022-09-15 17:00:00 +0100
-categories:  
+categories:  jekyll update weather
 ---
 Having not done much with ESP8266 devices for a couple of years I have been looking for a 
 suitable project.  I've also been getting to grips with 3D printing and after 8 months am beginning to feel like the basics are under control
