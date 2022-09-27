@@ -2,7 +2,7 @@
 layout: post
 title:  "Decorative Lights"
 date:   2022-09-26 08:00:00 +0100
-categories:  jekyll update led
+categories:  Household
 ---
 
 My daughter asked me for some decorative lighting for their lounge; it needed to be a stylish feature, use LEDs, be dimmable and controlled by a wall panel, smartphone and voice (Alexa).

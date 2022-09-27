@@ -2,7 +2,7 @@
 layout: post
 title:  "First Step"
 date:   2022-09-18 20:40:57 +0100
-categories: jekyll update
+categories: Weather-station
 ---
 
 # Setting Up a Development Environment for a Wemos D1 Mini

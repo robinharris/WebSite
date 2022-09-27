@@ -2,7 +2,7 @@
 layout: post
 title:  "Sorting some basics"
 date:   2022-09-21 13:00:00 +0100
-categories: jekyll update
+categories: Weather-station
 ---
 
 # Getting a Wemos running on a battery with a solar panel charger
