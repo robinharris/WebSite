@@ -30,7 +30,7 @@ github_username:  RobinHarris
 author: Robin Harris
 
 # Build settings
-theme: minima
+theme: tactile
 plugins:
   - jekyll-feed
 
