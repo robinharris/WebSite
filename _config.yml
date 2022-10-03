@@ -30,7 +30,7 @@ github_username:  RobinHarris
 author: Robin Harris
 
 # Build settings
-remote_theme: pages-themes/minima
+theme: minima
 plugins:
   - jekyll-feed
 
